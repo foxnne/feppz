@@ -1,0 +1,22 @@
+{
+    "name": "feppz--theme",
+    "displayName": "Feppz! Theme",
+    "description": "Personal theme with edits to eppz! and Teppz.",
+    "version": "0.0.1",
+    "publisher": "foxnne",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Feppz!",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Feppz!-color-theme.json"
+            }
+        ]
+    }
+}
