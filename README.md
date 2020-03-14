@@ -5,5 +5,5 @@
 * Toned down colors (left editor colors untouched)
 * Dark mode only
 
-![image info](images/example.png)
+![example](./images/example.PNG)
 

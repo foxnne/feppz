@@ -4,6 +4,10 @@
     "description": "Personal theme with edits to eppz! and Teppz.",
     "version": "0.0.1",
     "publisher": "foxnne",
+    "repository": { 
+        "type": "git",
+        "url": "https://github.com/foxnne/feppz.git"
+     },
     "engines": {
         "vscode": "^1.43.0"
     },
