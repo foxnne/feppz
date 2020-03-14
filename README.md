@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "feppz--theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# feppz!
+## Personal edits to the wonderful eppz! theme and Teppz.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+* Less borders
+* Toned down colors (left editor colors untouched)
+* Dark mode only
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![image info](./images/example.png)
 
-**Enjoy!**
