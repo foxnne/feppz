@@ -1,6 +1,6 @@
 {
     "name": "feppz--theme",
-    "displayName": "Feppz! Theme",
+    "displayName": "feppz!",
     "description": "Personal theme with edits to eppz! and Teppz.",
     "version": "0.4.0",
     "publisher": "foxnne",
@@ -18,9 +18,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Feppz!",
+                "label": "feppz!",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Feppz!-color-theme.json"
+                "path": "./themes/feppz!-color-theme.json"
             }
         ]
     }
