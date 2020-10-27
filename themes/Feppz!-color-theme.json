@@ -1751,6 +1751,50 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
+		},
+		{
+			"scope": "keyword.default.zig",
+			"settings": {
+				"foreground": "#615353",
+			}
+		},
+		{
+			"scope": "storage.type.function.zig",
+			"settings": {
+				"foreground": "#876560",
+			}
+		},
+		{
+			"scope": "keyword.storage.zig",
+			"settings": {
+				"foreground": "#876560"
+			}
+		},
+		{
+			"scope": "keyword.structure.zig",
+			"settings": {
+				"foreground": "#876560"
+			}
+		},
+		{
+			"scope": "keyword.constant.default.zig",
+			"settings": {
+				"foreground": "#535C90",
+			}
+		},
+		{
+			"scope": "keyword.constant.bool.zig",
+			"settings": {
+				"foreground": "#535C90",
+			}
+		},
+
+		{
+			"scope": "variable.other.enummember.zig",
+			"settings": {
+				"foreground": "#535C90",
+			}
 		}
+		
 	]
 }
